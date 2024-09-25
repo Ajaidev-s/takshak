@@ -3,8 +3,8 @@
 // Database connection details
 $hostname = "";
 $username = "";
-$password = ''; // Ensure the password is correct
-$database = ""; // Ensure this matches the database name
+$password = ''; 
+$database = ""; 
 
 // Initialize MySQLi
 $conn = mysqli_init();
